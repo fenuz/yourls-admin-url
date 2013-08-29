@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Cookie Domain 
+Plugin Name: Customize Admin URL 
 Plugin URI: http://www.kennisnet.nl
-Description: Customize Cookie Domain
+Description: Customize Admin URL
 Version: 0.1
 Author: Frank Matheron <frankmatheron@gmail.com>
 Author URI: https://github.com/fenuz
